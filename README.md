@@ -23,9 +23,9 @@
 
 - 💼 Currently building awesome apps using **React.js, Node.js, and PHP**
 - 🧑‍💻 Working on improving performance & UI/UX of MERN applications
-- 🎯 Learning **Next.js**, **GraphQL**, and advanced **System Design**
+- 🎯 Currently upskilling in .NET Core Full Stack Development, focusing on building scalable web applications.
 - 🤝 Looking to collaborate on open source and real-world full stack projects
-- 📨 Reach me at: **pawasranjan2005@gmail.com**
+- 📨 Reach me at: **pawasranjan5@gmail.com**
 
 ---
 
